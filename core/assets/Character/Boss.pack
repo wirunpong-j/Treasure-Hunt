@@ -1,0 +1,19 @@
+
+Boss.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Boss2
+  rotate: false
+  xy: 2, 2
+  size: 1925, 2010
+  orig: 1925, 2010
+  offset: 0, 0
+  index: -1
+Boss1
+  rotate: false
+  xy: 2, 2014
+  size: 1925, 2010
+  orig: 1925, 2010
+  offset: 0, 0
+  index: -1

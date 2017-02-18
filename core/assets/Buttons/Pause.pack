@@ -1,0 +1,54 @@
+
+Pause1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+P1
+  rotate: false
+  xy: 2, 2
+  size: 1322, 948
+  orig: 1322, 948
+  offset: 0, 0
+  index: -1
+P3-Unclick
+  rotate: false
+  xy: 1326, 2
+  size: 314, 412
+  orig: 314, 412
+  offset: 0, 0
+  index: -1
+P3-click
+  rotate: false
+  xy: 1326, 416
+  size: 314, 412
+  orig: 314, 412
+  offset: 0, 0
+  index: -1
+P2-Unclick
+  rotate: false
+  xy: 1642, 2
+  size: 743, 309
+  orig: 743, 309
+  offset: 0, 0
+  index: -1
+P2-click
+  rotate: false
+  xy: 1642, 313
+  size: 743, 309
+  orig: 743, 309
+  offset: 0, 0
+  index: -1
+P4-Unclick
+  rotate: false
+  xy: 2, 952
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+P4-click
+  rotate: false
+  xy: 60, 952
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1

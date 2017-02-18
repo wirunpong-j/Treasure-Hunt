@@ -1,0 +1,89 @@
+
+Gold.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FrontGold3
+  rotate: false
+  xy: 2, 2
+  size: 2378, 380
+  orig: 2378, 380
+  offset: 0, 0
+  index: -1
+FrontGold2
+  rotate: false
+  xy: 2, 384
+  size: 2378, 380
+  orig: 2378, 380
+  offset: 0, 0
+  index: -1
+FrontGold1
+  rotate: false
+  xy: 2, 766
+  size: 2378, 380
+  orig: 2378, 380
+  offset: 0, 0
+  index: -1
+BackGold4
+  rotate: false
+  xy: 2, 1148
+  size: 1400, 372
+  orig: 1400, 372
+  offset: 0, 0
+  index: -1
+BackGold3
+  rotate: false
+  xy: 2, 1522
+  size: 1400, 372
+  orig: 1400, 372
+  offset: 0, 0
+  index: -1
+BackGold2
+  rotate: false
+  xy: 2382, 2
+  size: 1820, 369
+  orig: 1820, 369
+  offset: 0, 0
+  index: -1
+BackGold1
+  rotate: false
+  xy: 2382, 373
+  size: 1820, 369
+  orig: 1820, 369
+  offset: 0, 0
+  index: -1
+BackGold5
+  rotate: false
+  xy: 2382, 744
+  size: 1682, 361
+  orig: 1682, 361
+  offset: 0, 0
+  index: -1
+BackGold6
+  rotate: false
+  xy: 2382, 1107
+  size: 1682, 330
+  orig: 1682, 330
+  offset: 0, 0
+  index: -1
+FrontGold6
+  rotate: false
+  xy: 2382, 1439
+  size: 1584, 212
+  orig: 1584, 212
+  offset: 0, 0
+  index: -1
+FrontGold5
+  rotate: false
+  xy: 2382, 1653
+  size: 1584, 212
+  orig: 1584, 212
+  offset: 0, 0
+  index: -1
+FrontGold4
+  rotate: false
+  xy: 4204, 2
+  size: 1584, 212
+  orig: 1584, 212
+  offset: 0, 0
+  index: -1

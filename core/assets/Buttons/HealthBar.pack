@@ -1,0 +1,138 @@
+
+HealthBar.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Heart
+  rotate: false
+  xy: 1, 1
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+bar_blue_mid
+  rotate: false
+  xy: 37, 5
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+bar_green_mid
+  rotate: false
+  xy: 55, 5
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+bar_red_mid
+  rotate: false
+  xy: 73, 5
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+bar_shadow_mid
+  rotate: false
+  xy: 91, 5
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+bar_white_mid
+  rotate: false
+  xy: 109, 5
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+bar_yellow_mid
+  rotate: false
+  xy: 127, 5
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+bar_blue_left
+  rotate: false
+  xy: 145, 5
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+bar_blue_right
+  rotate: false
+  xy: 153, 5
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+bar_green_left
+  rotate: false
+  xy: 161, 5
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+bar_green_right
+  rotate: false
+  xy: 169, 5
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+bar_red_left
+  rotate: false
+  xy: 177, 5
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+bar_red_right
+  rotate: false
+  xy: 185, 5
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+bar_shadow_left
+  rotate: false
+  xy: 193, 5
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+bar_shadow_right
+  rotate: false
+  xy: 201, 5
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+bar_white_left
+  rotate: false
+  xy: 209, 5
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+bar_white_right
+  rotate: false
+  xy: 217, 5
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+bar_yellow_left
+  rotate: false
+  xy: 225, 5
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+bar_yellow_right
+  rotate: false
+  xy: 233, 5
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1

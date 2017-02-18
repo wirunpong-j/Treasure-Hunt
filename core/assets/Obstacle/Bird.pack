@@ -1,0 +1,19 @@
+
+Bird.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bird2
+  rotate: false
+  xy: 2, 2
+  size: 1228, 205
+  orig: 1228, 205
+  offset: 0, 0
+  index: -1
+Bird1
+  rotate: false
+  xy: 2, 209
+  size: 1180, 201
+  orig: 1180, 201
+  offset: 0, 0
+  index: -1

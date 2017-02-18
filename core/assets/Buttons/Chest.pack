@@ -1,0 +1,47 @@
+
+Chest.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Chest3-2
+  rotate: false
+  xy: 2, 2
+  size: 500, 401
+  orig: 500, 401
+  offset: 0, 0
+  index: -1
+Chest3-1
+  rotate: false
+  xy: 2, 405
+  size: 500, 401
+  orig: 500, 401
+  offset: 0, 0
+  index: -1
+Chest2-2
+  rotate: false
+  xy: 2, 808
+  size: 500, 401
+  orig: 500, 401
+  offset: 0, 0
+  index: -1
+Chest2-1
+  rotate: false
+  xy: 2, 1211
+  size: 500, 401
+  orig: 500, 401
+  offset: 0, 0
+  index: -1
+Chest1-2
+  rotate: false
+  xy: 2, 1614
+  size: 500, 401
+  orig: 500, 401
+  offset: 0, 0
+  index: -1
+Chest1-1
+  rotate: false
+  xy: 2, 2017
+  size: 500, 401
+  orig: 500, 401
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,124 @@
+
+Effect1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SpawnBoss
+  rotate: false
+  xy: 2, 2
+  size: 5750, 307
+  orig: 5750, 307
+  offset: 0, 0
+  index: -1
+BossDead
+  rotate: false
+  xy: 2, 311
+  size: 4710, 332
+  orig: 4710, 332
+  offset: 0, 0
+  index: -1
+AttactToBoss2
+  rotate: false
+  xy: 2, 645
+  size: 4428, 201
+  orig: 4428, 201
+  offset: 0, 0
+  index: -1
+Complete
+  rotate: false
+  xy: 2, 848
+  size: 4332, 4386
+  orig: 4332, 4386
+  offset: 0, 0
+  index: -1
+GetKey
+  rotate: false
+  xy: 2, 5236
+  size: 4032, 254
+  orig: 4032, 254
+  offset: 0, 0
+  index: -1
+Spear
+  rotate: false
+  xy: 2, 5492
+  size: 3848, 233
+  orig: 3848, 233
+  offset: 0, 0
+  index: -1
+GetPotion
+  rotate: false
+  xy: 4714, 311
+  size: 3443, 208
+  orig: 3443, 208
+  offset: 0, 0
+  index: -1
+Invincible2
+  rotate: false
+  xy: 2, 5727
+  size: 2464, 310
+  orig: 2464, 310
+  offset: 0, 0
+  index: -1
+AttactToBoss1
+  rotate: false
+  xy: 5754, 2
+  size: 2064, 244
+  orig: 2064, 244
+  offset: 0, 0
+  index: -1
+Dead
+  rotate: false
+  xy: 5754, 248
+  size: 2020, 47
+  orig: 2020, 47
+  offset: 0, 0
+  index: -1
+Invincible1
+  rotate: false
+  xy: 4714, 521
+  size: 1720, 39
+  orig: 1720, 39
+  offset: 0, 0
+  index: -1
+BossLaser
+  rotate: false
+  xy: 4432, 645
+  size: 1710, 160
+  orig: 1710, 160
+  offset: 0, 0
+  index: -1
+Door
+  rotate: false
+  xy: 2468, 5727
+  size: 1617, 220
+  orig: 1617, 220
+  offset: 0, 0
+  index: -1
+OpenBox
+  rotate: false
+  xy: 6144, 645
+  size: 1045, 169
+  orig: 1045, 169
+  offset: 0, 0
+  index: -1
+BallItem
+  rotate: false
+  xy: 6436, 521
+  size: 992, 88
+  orig: 992, 88
+  offset: 0, 0
+  index: -1
+PlayerDead
+  rotate: false
+  xy: 7430, 521
+  size: 462, 85
+  orig: 462, 85
+  offset: 0, 0
+  index: -1
+Damage
+  rotate: false
+  xy: 7820, 2
+  size: 308, 96
+  orig: 308, 96
+  offset: 0, 0
+  index: -1

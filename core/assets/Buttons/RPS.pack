@@ -1,0 +1,47 @@
+
+RPS.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Paper1
+  rotate: false
+  xy: 1, 1
+  size: 134, 136
+  orig: 134, 136
+  offset: 0, 0
+  index: -1
+Paper2
+  rotate: false
+  xy: 137, 1
+  size: 134, 136
+  orig: 134, 136
+  offset: 0, 0
+  index: -1
+Scissor1
+  rotate: false
+  xy: 273, 1
+  size: 133, 136
+  orig: 133, 136
+  offset: 0, 0
+  index: -1
+Scissor2
+  rotate: false
+  xy: 408, 1
+  size: 133, 136
+  orig: 133, 136
+  offset: 0, 0
+  index: -1
+Rock1
+  rotate: false
+  xy: 543, 1
+  size: 132, 136
+  orig: 132, 136
+  offset: 0, 0
+  index: -1
+Rock2
+  rotate: false
+  xy: 677, 1
+  size: 132, 136
+  orig: 132, 136
+  offset: 0, 0
+  index: -1

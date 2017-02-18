@@ -1,0 +1,33 @@
+
+PlayerAR.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FullBody
+  rotate: false
+  xy: 2, 2
+  size: 828, 520
+  orig: 828, 520
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 2, 524
+  size: 179, 311
+  orig: 179, 311
+  offset: 0, 0
+  index: -1
+PlayerRun
+  rotate: false
+  xy: 832, 2
+  size: 2340, 290
+  orig: 2340, 290
+  offset: 0, 0
+  index: -1
+slide
+  rotate: false
+  xy: 183, 524
+  size: 319, 124
+  orig: 319, 124
+  offset: 0, 0
+  index: -1
